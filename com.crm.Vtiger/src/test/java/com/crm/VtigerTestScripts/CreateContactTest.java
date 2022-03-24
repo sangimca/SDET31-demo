@@ -10,5 +10,6 @@ public class CreateContactTest {
 	public void createContact()
 	{
 		System.out.println("Create Contact");
+		System.out.println("create contact is modified");
 	}
 }
