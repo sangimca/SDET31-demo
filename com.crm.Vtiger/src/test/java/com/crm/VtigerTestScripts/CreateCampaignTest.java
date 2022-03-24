@@ -8,6 +8,6 @@ public class CreateCampaignTest {
 	public void createCampaign()
 	{
 		System.out.println("create campaign");
-		System.out.println("hi");
+		System.out.println("campaign created");
 	}
 }
