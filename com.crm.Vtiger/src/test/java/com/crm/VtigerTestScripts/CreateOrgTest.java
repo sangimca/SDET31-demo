@@ -12,5 +12,7 @@ public void createorg()
 	
 	
 	System.out.println("Modified organisation");
-}
+	
+	System.out.println("Delete the Org");
+ }
 }
