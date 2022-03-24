@@ -13,6 +13,8 @@ public class ModifiedOrgTest {
 		System.out.println("Good Evening");
 		System.out.println("Good Night");
 		
+		System.out.println("Good Afternoon");
+		System.out.println("Good Morning");
 		
 		
 		
