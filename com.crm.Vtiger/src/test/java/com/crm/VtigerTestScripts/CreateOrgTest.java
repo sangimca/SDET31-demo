@@ -12,5 +12,11 @@ public void createorg()
 	
 	
 	System.out.println("Modified organisation");
+	
 }
+	@Test
+	public void modifyorg()
+	{
+		System.out.println("Modified");
+	}
 }
