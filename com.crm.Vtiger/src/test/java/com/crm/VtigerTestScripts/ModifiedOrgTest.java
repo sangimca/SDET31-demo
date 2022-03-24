@@ -2,7 +2,7 @@ package com.crm.VtigerTestScripts;
 
 import org.testng.annotations.Test;
 
-public class ModifiedOrg {
+public class ModifiedOrgTest {
 	@Test
 	public void modifiedorg() {
 		
